@@ -1,27 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[6]:
 
 
 #assigning elements to different lists
 names = ['yash','jhon','steve','alex']
 print(names)
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[9]:
 
 
 names = ['yash','jhon','steve','alex']
